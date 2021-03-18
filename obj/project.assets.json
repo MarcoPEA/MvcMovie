@@ -927,6 +927,18 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "Rick.Docs.Samples.RouteInfo/1.0.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -3817,6 +3829,18 @@
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "newtonsoft.json.11.0.2.nupkg.sha512",
         "newtonsoft.json.nuspec"
+      ]
+    },
+    "Rick.Docs.Samples.RouteInfo/1.0.0.4": {
+      "sha512": "UZWAKDz1UMOYR5EzjgUH+y8N87Q8q6WZr7JZ9fKrtZTzzJPE0e7UVRq0zYaxca6zKBzMzyNc0wPYYPhkgkf4qg==",
+      "type": "package",
+      "path": "rick.docs.samples.routeinfo/1.0.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll",
+        "rick.docs.samples.routeinfo.1.0.0.4.nupkg.sha512",
+        "rick.docs.samples.routeinfo.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -7451,7 +7475,8 @@
       "Microsoft.EntityFrameworkCore.SQLite >= 5.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.3",
       "Microsoft.Extensions.Logging.Debug >= 5.0.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
+      "Rick.Docs.Samples.RouteInfo >= 1.0.0.4"
     ]
   },
   "packageFolders": {
@@ -7518,6 +7543,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[5.0.2, )"
+          },
+          "Rick.Docs.Samples.RouteInfo": {
+            "target": "Package",
+            "version": "[1.0.0.4, )"
           }
         },
         "imports": [

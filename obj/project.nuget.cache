@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "M/GJBoq3GNrpnSx2+q/zINIQsEDzyHjgUAmHnMSh/doDuny9Ybc75TQXS3INGV+VVsLayCHMwghSANB7ftpOaA==",
+  "dgSpecHash": "5PBWf1oya5T5b57lYQykIBAAX/uABz44vT7X7TBjGuVxgMxrPhTArqqGXulwApeRKlZEOAM1Iib3ybOgoGeAhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marco\\Web2\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\Marco\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\rick.docs.samples.routeinfo\\1.0.0.4\\rick.docs.samples.routeinfo.1.0.0.4.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
